@@ -15,10 +15,4 @@ I love to code and find solutions to some real world problems
 - 😄 Pronouns: He/His :boy:
 - ⚡ Fun fact: I can make some delicious tea :tea: for you
 
-<br>
-#### connect with me:
-[Twitter] (https://twitter.com/coderAbhii) [Linkedin] (https://linkedin.com/in/abhijeet-dhanwate) [Instagram] (https://instagram.com/they_call_me_abhii)
-
-<br>
-<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coderAbhii)](https://github.com/anuraghazra/github-readme-stats)
