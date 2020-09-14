@@ -17,7 +17,8 @@ I love to code and find solutions to some real world problems
 <a href="http://linkedin.com/in/abhijeet-dhanwate" > <img src="linkedin.jpeg" height= 30px /> </a>    <a href="http://instagram.com/they_call_me_abhii" > <img src="instagram.jpeg" height= 30px /> </a>    <a href="http://twitter.com/coderAbhii" > <img src="twitter.png" height= 30px /> </a>   <a href="mailto:iamdhanwate@gmail.com" > <img src="gmail.png" height = 30px /> </a>   
 
 <br>
-## Languages and Skills
+
+### Languages and Skills
 
 <img src="python.png" height= 30px />   <img src="c.png" height= 30px />    <img src="cpp.png" height= 30px />    <img src="html5.png" height= 30px />    <img src="css3.png" height= 30px />   <img src="django.png" height= 30px />   <img src="android.png" height= 30px />    <img src="react.jpeg" height= 30px />
 
