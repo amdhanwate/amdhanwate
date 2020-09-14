@@ -12,12 +12,12 @@ I love to code and find solutions to some real world problems
 
 <br>
 
-## Connect with me on: <br>
+### Connect with me on: <br>
 
 <a href="http://linkedin.com/in/abhijeet-dhanwate" > <img src="linkedin.jpeg" height= 22px /> </a>
 <a href="http://instagram.com/they_call_me_abhii" > <img src="instagram.jpeg" height= 22px /> </a>
 <a href="http://twitter.com/coderAbhii" > <img src="twitter.png" height= 22px /> </a>
-<a href="mailto:iamdhanwate@gmail.com"> <img src="gmail.png" height = 22px /> </a>
+<a href="mailto:iamdhanwate@gmail.com" > <img src="gmail.png" height = 22px /> </a>
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coderAbhii)](https://github.com/anuraghazra/github-readme-stats)
