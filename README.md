@@ -14,23 +14,12 @@ I love to code and find solutions to some real world problems
 
 ### Connect with me on: <br>
 
-<a href="http://linkedin.com/in/abhijeet-dhanwate" > <img src="linkedin.jpeg" height= 22px /> </a>
-<a href="http://instagram.com/they_call_me_abhii" > <img src="instagram.jpeg" height= 22px /> </a>
-<a href="http://twitter.com/coderAbhii" > <img src="twitter.png" height= 22px /> </a>
-<a href="mailto:iamdhanwate@gmail.com" > <img src="gmail.png" height = 22px /> </a>
+<a href="http://linkedin.com/in/abhijeet-dhanwate" > <img src="linkedin.jpeg" height= 30px /> </a>    <a href="http://instagram.com/they_call_me_abhii" > <img src="instagram.jpeg" height= 30px /> </a>    <a href="http://twitter.com/coderAbhii" > <img src="twitter.png" height= 30px /> </a>   <a href="mailto:iamdhanwate@gmail.com" > <img src="gmail.png" height = 30px /> </a>   
 
-<br><br>
-
+<br>
 ### Languages & Skills <br>
 
-<img src="python.png" height= 22px />
-<img src="c.png" height= 22px />
-<img src="cpp.png" height= 22px />
-<img src="html5.png" height= 22px />
-<img src="css3.png" height= 22px />
-<img src="django.png" height= 22px />
-<img src="android.png" height= 22px />
-<img src="react.jpeg" height= 22px />
+<img src="python.png" height= 30px />   <img src="c.png" height= 30px />    <img src="cpp.png" height= 30px />    <img src="html5.png" height= 30px />    <img src="css3.png" height= 30px />   <img src="django.png" height= 30px />   <img src="android.png" height= 30px />    <img src="react.jpeg" height= 30px />
 
 <br><br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coderAbhii)](https://github.com/anuraghazra/github-readme-stats)
