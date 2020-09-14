@@ -20,7 +20,7 @@ I love to code and find solutions to some real world problems
 
 ### Languages and Skills
 
-<img src="python.png" height= 30px />   <img src="c.png" height= 30px />    <img src="cpp.png" height= 30px />    <img src="html5.png" height= 30px />    <img src="css3.png" height= 30px />   <img src="django.png" height= 30px />   <img src="android.png" height= 30px />    <img src="react.jpeg" height= 30px />
+<img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/python.png" height= 30px />   <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/c.png" height= 30px />    <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/cpp.png" height= 30px />    <img src="html5.png" height= 30px />    <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/css3.png" height= 30px />   <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/django.png" height= 30px />   <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/android.png" height= 30px />    <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/react.jpeg" height= 30px />
 
 <br><br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coderAbhii)](https://github.com/anuraghazra/github-readme-stats)
