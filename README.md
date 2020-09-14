@@ -6,7 +6,7 @@ I love to code and find solutions to some real world problems.
 > a person's perspective towards life"
 
 
-- 🔭 I’m currently working on my portfolio website                                                        <img src="/github.png" align="right" height = 50% />
+- 🔭 I’m currently working on my portfolio website                                                        <img src="/github.png" align="right" height = 25% />
 - 🌱 I’m currently learning and exploring about Data Structures
 - 👯 I’m looking to collaborate on PWA projects
 - 🤔 I’m looking for help with JavaScript and Libraries
