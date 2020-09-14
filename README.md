@@ -18,6 +18,19 @@ I love to code and find solutions to some real world problems
 <a href="http://instagram.com/they_call_me_abhii" > <img src="instagram.jpeg" height= 22px /> </a>
 <a href="http://twitter.com/coderAbhii" > <img src="twitter.png" height= 22px /> </a>
 <a href="mailto:iamdhanwate@gmail.com" > <img src="gmail.png" height = 22px /> </a>
-<br>
 
+<br><br>
+
+### Languages & Skills <br>
+
+<img src="python.png" height= 22px />
+<img src="c.png" height= 22px />
+<img src="cpp.png" height= 22px />
+<img src="html5.png" height= 22px />
+<img src="css3.png" height= 22px />
+<img src="django.png" height= 22px />
+<img src="android.png" height= 22px />
+<img src="react.jpeg" height= 22px />
+
+<br><br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coderAbhii)](https://github.com/anuraghazra/github-readme-stats)
