@@ -14,9 +14,9 @@ I love to code and find solutions to some real world problems
 
 ## Connect with me on: <br>
 
-[LinkedIn](http://linkedin.com/in/abhijeet-dhanwate)
-[Instagram](http://instagram.com/they_call_me_abhii)
-[Twitter](http://twitter.com/coderAbhii)
+<a href="http://linkedin.com/in/abhijeet-dhanwate" > <img src="linkedin.png" height= 22px /> </a>
+<a href="http://instagram.com/they_call_me_abhii" > <img src="instagram.png" height= 22px /> </a>
+<a href="http://twitter.com/coderAbhii" > <img src="twitter.png" height= 22px /> </a>
 
 <br>
 
