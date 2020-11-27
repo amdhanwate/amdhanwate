@@ -2,11 +2,10 @@
 I am __Abhijeet__ and I am fond of technology since the very young age. <br>
 I love to code and find solutions to some real world problems
 
-- 🔭 I’m currently working on my portfolio website               <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/cartoon.png" align="right" height = 200/>
+- 🔭 I’m currently working on a Python library              <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/cartoon.png" align="right" height = 200/>
 - 🌱 I’m currently learning and exploring about Data Structures
-- 👯 I’m looking to collaborate on PWA projects
 - 🤔 I’m looking for help with JavaScript and Libraries
-- 💬 Ask me about Python (Not the snake :wink:)
+- 💬 Ask me about Python (Not :wink:)
 - 😄 Pronouns: He/His :boy:
 - ⚡ Fun fact: I can make some delicious tea :tea: for you
 
