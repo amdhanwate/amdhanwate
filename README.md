@@ -12,7 +12,7 @@ I love to code and find solutions to real world problems.
 
 ### Connect with me on: <br>
 
-<a href="http://linkedin.com/in/abhijeet-dhanwate" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/linkedin.jpeg" height= 30px /> </a>    <a href="http://instagram.com/they_call_me_abhii" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/instagram.jpeg" height= 30px /> </a>    <a href="http://twitter.com/abhijeet" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/twitter.png" height= 30px /> </a>   <a href="mailto:iamdhanwate@gmail.com" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/gmail.png" height = 30px /> </a>   
+<a href="http://linkedin.com/in/abhijeet-dhanwate" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/linkedin.jpeg" height= 30px /> </a>    <a href="http://instagram.com/they_call_me_abhii" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/instagram.jpeg" height= 30px /> </a>    <a href="http://twitter.com/abhi_3309" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/twitter.png" height= 30px /> </a>   <a href="mailto:iamdhanwate@gmail.com" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/gmail.png" height = 30px /> </a>   
 
 <br>
 
