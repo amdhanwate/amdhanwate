@@ -2,11 +2,11 @@
 I am __Abhijeet__ and I am fond of technology since the very young age. <br>
 I love to code and find solutions to real world problems.
 
-- 🔭 I’m currently working on a enriching my skills            <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/cartoon.png" align="right" height = 200/>
-- 🌱 I’m currently learning and exploring about Data Structures
-- 🤔 I’m looking for help with JavaScript and Libraries
+- 🔭 I’m currently working on a enriching my WebDev skills            <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/cartoon.png" align="right" height = 200/>
+- 🌱 I’m currently learning and exploring about Django
+- 🤔 I’m looking for help with DRF!
 - 😄 Pronouns: He/His :boy:
-- ⚡ Fun fact: I can make some delicious tea :tea: for you
+- ⚡ Fun fact: I am 19! :grin:
 
 <br>
 
