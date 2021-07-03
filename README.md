@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am __Abhijeet__ and I am fond of technology since the very young age. <br>
-I love to code and find solutions to real world problems.
+I am __Abhijeet__ and I am fond of technology and the WEB.
 
 - 🔭 I’m currently working on a enriching my WebDev skills            <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/cartoon.png" align="right" height = 200/>
 - 🌱 I’m currently learning and exploring about Django
