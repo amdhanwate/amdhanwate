@@ -9,15 +9,16 @@ I am __Abhijeet__ and I am fond of technology and the WEB.
 
 <br>
 
-### Connect with me on: <br>
-
-<a href="http://linkedin.com/in/abhijeet-dhanwate" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/linkedin.jpeg" height= 30px /> </a>    <a href="http://instagram.com/they_call_me_abhii" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/instagram.jpeg" height= 30px /> </a>    <a href="http://twitter.com/abhi_3309" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/twitter.png" height= 30px /> </a>   <a href="mailto:iamdhanwate@gmail.com" > <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/gmail.png" height = 30px /> </a>   
+### Connect with me on: <br> <a href="http://linkedin.com/in/abhijeet-dhanwate" > 
+  <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/linkedin.jpeg" height= 30px />   
 
 <br>
 
 ### Languages and Skills
-
-<img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/python.png" height= 30px />   <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/c.png" height= 30px />    <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/cpp.png" height= 30px />    <img src="html5.png" height= 30px />    <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/css3.png" height= 30px />   <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/django.png" height= 30px />   <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/android.png" height= 30px />    <img src="https://raw.githubusercontent.com/coderAbhii/coderAbhii/master/react.jpeg" height= 30px />
+  1. HTML, CSS, JavaScript, BootStrap
+  2. Python, DJango
+  3. C, C++
+  4. Git, Firebase, Figma
 
 <br><br>
 [![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=amdhanwate)](https://github.com/coderAbhii/github-readme-stats)
