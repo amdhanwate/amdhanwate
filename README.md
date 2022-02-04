@@ -5,7 +5,7 @@ I am __Abhijeet__ and I am fond of technology and the WEB.
 - 🌱 I’m currently learning and exploring about Django
 - 🤔 I’m looking for help with DRF!
 - 😄 Pronouns: He/His :boy:
-- ⚡ Fun fact: I am 19! :grin:
+- ⚡ Fun fact: :grin:
 
 <br>
 
