@@ -15,10 +15,10 @@ I am __Abhijeet__ and I am fond of technology and the WEB.
 <br>
 
 ### Languages and Skills
-  1. HTML, CSS, JavaScript, BootStrap
-  2. Python, DJango
-  3. C, C++
-  4. Git, Firebase, Figma
+  - HTML, CSS, JavaScript, BootStrap
+  - Python, C++, Java
+  - Node.js, ReactJS, Angular, Express, Django, Flask
+  - Git, Figma
 
 <br><br>
 [![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=amdhanwate)](https://github.com/coderAbhii/github-readme-stats)
