@@ -21,4 +21,4 @@ I am __Abhijeet__ and I am fond of technology and the WEB.
   - Git, Figma
 
 <br><br>
-[![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=amdhanwate)](https://github.com/amdhanwate/github-readme-stats)
+<!--[![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=amdhanwate)](https://github.com/amdhanwate/github-readme-stats) -->
